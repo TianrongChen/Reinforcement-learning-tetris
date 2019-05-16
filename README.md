@@ -4,3 +4,4 @@ In this method, we are using small feature space and large feature space. You ca
 Meanwhile, we propose a new method, which is called SA-CEM, which combined Simulated annealing and CEM. The result is relatively good. Because of the time limitation,the performance of SA-CEM does not reach the maximum. If you are intrested in, you can keep running it.
 Following is the result:
 ![statistics](https://github.com/TianrongChen/Reinforcement-learning-tetris/blob/master/f3.png)
+![statistics](https://github.com/TianrongChen/Reinforcement-learning-tetris/blob/master/f5.png)
